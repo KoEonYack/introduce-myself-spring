@@ -3,6 +3,7 @@
 # 자기소개 (with SpringBoot)
 
  👉 [DEMO Page](https://introduce-myself-spring.herokuapp.com/greeting)
+초기 페이지 로딩시간이 30초 정도 소요됩니다.
 
 </div>
 
