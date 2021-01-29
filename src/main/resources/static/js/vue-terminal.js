@@ -32,7 +32,7 @@ let vueTerminal = new Vue({
             "cat": "Specify the file you want to open... \n",
             "cat me.txt": `\n 저는 Covenant입니다. \n
             멋찐 개발자가 되고 싶어요~~ \n
-            OOP프로그래밍 어려워요 따흐그흑흑
+            신나는 스프링~~~~~
            \n`,
             "cat cat.txt": `
 　 ／l、     Meow :3
